@@ -1,10 +1,10 @@
 # Site settings
 title: 澈酱今晚吃什么
 SEOTitle: 澈酱今晚吃什么的博客 | 澈酱 Blog
-header-img: C:\Users\chejiang\Pictures\Saved Pictures\sexcat.png
+header-img: \Users\chejiang\Pictures\Saved Pictures\sexcat.png
 email: 1754835881@qq.com
 description: "这里是 澈酱今晚吃什么 的个人博客，与我一起创造游戏世界吧！"
-keyword: "bilibili@澈酱今晚吃什么, Unity， 游戏开发， C#， C++"
+keyword: "bilibili@澈酱今晚吃什么, Unity，游戏开发， C#， C++"
 url: "https://shinai1221.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
